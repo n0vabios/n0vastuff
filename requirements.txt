@@ -1,0 +1,11 @@
+discord.py-self==2.0.0
+pillow
+colorama
+pyfiglet
+win10toast
+beautifulsoup4
+requests
+aiohttp
+pywin32
+pystray
+pyinstaller 
